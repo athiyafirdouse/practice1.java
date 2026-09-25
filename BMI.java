@@ -8,7 +8,7 @@ public class BMI {
         double inches = sc.nextDouble();
         double BMI = weight * 0.45359237 / (inches * 0.0254 * inches * 0.0254);
         System.out.println("body mass index is " + BMI);
-        
+
     }
-    
+
 }
